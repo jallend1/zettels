@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "1a40af185f2b27a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "940564c1d33818bb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202210202155 - ARTICLE - Vocational Awe and Librarianship.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bebb997276a30334",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc971b3e28a81b95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2f6424ffbf2f0f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2be053fbab406d9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "coding",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "right": {
+    "id": "1e4b95c279784cc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1e91c1545b56ae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c5b89ca479e78d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202210202155 - ARTICLE - Vocational Awe and Librarianship.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "940564c1d33818bb",
+  "lastOpenFiles": [
+    "202210202149 - VIDEO - Learn JSON in Ten Minutes.md",
+    "202210202144 - VIDEO - Node.JS.md",
+    "202210202117 - The Four Desires Driving All Human Behavior.md",
+    "202209271713 - ARTICLE - How to set up Environment Variable in Node JS.md",
+    "202207052043 - VIDEO - Advanced WordPress Theme Development.md",
+    "Permanent Notes/202210202054 - Nature of Hobbits.md",
+    "202210201842 - MEETING - 10-20-2022 eBoard Meeting.md",
+    "Permanent Notes/202209271713 - Covid-19 Changed American Personalities.md",
+    "Permanent Notes/202209201856 - Code Snippets.md",
+    "Permanent Notes/202208231611 - .gitignore for WordPress Development.md"
+  ]
+}

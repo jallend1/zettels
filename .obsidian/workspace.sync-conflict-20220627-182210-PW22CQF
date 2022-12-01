@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "1a40af185f2b27a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cdc77120554b7d1",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9edfaae6bf021e37",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9a3c0a587e8be17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45ad6706e1fc1954",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbca37e502c47794",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be19bc9b64d44842",
+    "type": "split",
+    "children": [
+      {
+        "id": "1627fba37aed4fba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c456c46e0cd74c51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7cdc77120554b7d1",
+  "lastOpenFiles": [
+    "Literature Notes/202206262042 - ARTICLE - German lawmakers vote to end ban on 'advertising' abortions.md",
+    "Permanent Notes/202206262145 - Germany Forbid Doctors From Communicating Abortion Services.md",
+    "Permanent Notes/202206221747 - Hermit Crab Houses.md",
+    "Permanent Notes/202206221751 - Hermit Crab Housing Crisis.md",
+    "Permanent Notes/202206212237 - Noble Obstacles.md",
+    "Permanent Notes/202206162115 - Blind Mexican Cave Fish Speciation.md",
+    "Permanent Notes/202206162134 - Lying About the Constitution Made it True.md",
+    "Permanent Notes/202206162200 - Markdown.md",
+    "Permanent Notes/202206182344 - Harry Truman Proposed Universal Healthcare.md",
+    "Permanent Notes/202206212209 - Private insurance soared in Post-WW2 America.md"
+  ]
+}

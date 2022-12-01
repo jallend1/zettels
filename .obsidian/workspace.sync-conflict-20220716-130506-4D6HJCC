@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "1a40af185f2b27a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dd224520e9727e6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202207142113 - BOOK - Twilight of Democracy.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c2195f0313d0429d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202207142236 - PODCAST - Ezra Klein.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26ad590787c52ac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a33c98d139b6efa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "484bc5a8774f9650",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e2dd63ada20944b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 427.5
+  },
+  "right": {
+    "id": "525913b50ba06945",
+    "type": "split",
+    "children": [
+      {
+        "id": "7301cc2d7d666275",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e92272ebcbc70cc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202207142236 - PODCAST - Ezra Klein.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c2195f0313d0429d",
+  "lastOpenFiles": [
+    "202207142234 - ARTICLE - Loneliness.md",
+    "Permanent Notes/202207100028 - Constitution is for Everyone.md",
+    "202207142212 - Constitution is a Layman's Document.md",
+    "202207142125 - The Dreyfuss Affair.md",
+    "Literature Notes/202207111723 - PDF - Presidential Commission on the Supreme Court of the United States.md",
+    "202207142113 - BOOK - Twilight of Democracy.md",
+    "202207142107 - BOOK - Clean Code.md",
+    "202207142102 - BOOK - Fallen Founder.md",
+    "Permanent Notes/202207052108 - header.php.md",
+    "Permanent Notes/202207062117 - Autoloaders.md"
+  ]
+}

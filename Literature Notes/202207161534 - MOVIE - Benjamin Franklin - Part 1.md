@@ -1,0 +1,62 @@
+# Benjamin Franklin - Part 1
+**By:** Ken Burns
+**Website:** https://www.pbs.org/kenburns/benjamin-franklin/
+
+- Ben Franklin's Principles
+	- Be extremely frugal
+	- Endeavor to speak the truth
+	- Apply myself industriously
+	- Speak ill of no man
+- Established Library COmpany of Philadelphia
+	- America's first subscription library opened to the public
+"The good we can do together surpasses the good we can do alone"
+- Franklin's 12 Virtues leading to moral perfection
+	- Temperance
+	- Silence
+	- Order
+	- Resolution
+	- Frugality
+	- Industry
+	- Sincerity
+	- Justice
+	- Moderation
+	- Cleanliness
+	- Tranquility
+	- Chastity
+	- Bonus Virtue added later: Humility
+- Franklin kept weekly calender marking days he failed to live up to these virtues
+- Although a Quaker, a sect that was mostly against slavery, Franklin was a slave-owner
+- Franklin retired from his newspaper empire so taht he could spend time reading and conduct experiments
+- Eagerly explored electricity, despearately seeking functional uses for the technology
+- Franklin's kite and key experiment
+	- Franklin saw similarities between his electrical studies and lightning
+	- Devised the kite and key experiment to show that the atmosphere was becoming electrically charged
+	- It was not intended to get struck by lightning, nor did it
+	- Europe was stunned that this discovery came from the United States
+- Developed lightning rods
+	- Refused to patent it because good ideas belong to mankind
+	- Religious leaders pushed back because Franklin was limiting one of God's most effective ways to punish sin
+	- Dubbed "The Modern Prometheus" by Immanuel Kant for stealing the fire of heaven
+	- Installed them on St. Paul's Cathedral
+- Established first mail home delivery system in the United States
+	- Begins forging an American identity as the post office knits colonies together
+- Opposed importing slaves on economic grounds because it makes the white owners "enfeebled"
+- Worried about influx of immigrants with a "swarthy" complexion (Russians, Italians, Swedes) diminishing the English nature of Pennsylvania
+- Franklin looked towards Iroquoise Confederation as a model for British colonies to follow as if "savages" can keep it running for a hundred years, white folks should have no problem
+- Wrote "Join or Die" snake cartoon, among the first calls for the colonies to join together
+- Franklin's slave King escaped when he brought him to England to try and convince William Penn's family to pay taxes
+- Franklin never frees slaves, with all of them either escaping or dying in servitude
+- Ben Franklin's son William selected as New Jersey's Royal Governor in large part thanks to Franklin's efforts to elevate his son
+- Franklin visited school his wife enrolled their slave child in a local school
+	- Taken aback at the realization that these children "are equal in every respect equal to that of white children"
+	- I will not undertake to justify all my prejudices, nor to account for them
+	- Prior to this, just straight up disliked Black people
+- Franklin was embracing of new taxes of Britain because the growing empire required maintenance, but found himself out of step with his fellow colonists
+- Opposed Stamp Act from London, but encouraged a restrained response in the colonies 
+	- Testified to Parliament that if an army is sent to the colonies, "they will not find a rebellion. They may indeed make one"
+- Franklin sought tone that could lead to reconcilliation with England
+- After Boston Tea Party, Franklin called before Parliament and listened quietly for an hour long berating without response
+	- Dubbed "Old Doubleface" by London media
+	- Dismissed as Deputy Postmaster for North America two days after appearance before Parliament
+	- Walked into that session an Englishman, out as an American
+- 

@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "1a40af185f2b27a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3343022d2bfe686a",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bebb997276a30334",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc971b3e28a81b95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2f6424ffbf2f0f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2be053fbab406d9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Interlibrary Loan",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339
+  },
+  "right": {
+    "id": "1e4b95c279784cc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1e91c1545b56ae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c5b89ca479e78d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3343022d2bfe686a",
+  "lastOpenFiles": [
+    "Permanent Notes/202209072143 - New Cat Base Camp.md",
+    "Permanent Notes/202209072139 - New Cat Site Swapping.md",
+    "Permanent Notes/202209072033 - The Challenge Line.md",
+    "202208291838 - TV - Misc Thoughts on Nathan Fielder's The Rehearsal.md",
+    "Literature Notes/202209072031 - VIDEO - Cat Introductions.md",
+    "Permanent Notes/202209072151 - New Cat Introductions.md",
+    "Permanent Notes/202209072124 - Allowing a New Cat in the Same Room.md",
+    "Permanent Notes/202209072106 - Other Side of the Door Feeding Ritual.md",
+    "Permanent Notes/202207041635 - John McCain's Eligibility for POTUS.md",
+    "Permanent Notes/202209062156 - useRef as DOM API Reference.md"
+  ]
+}

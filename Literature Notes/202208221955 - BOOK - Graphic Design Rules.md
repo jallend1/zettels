@@ -1,0 +1,53 @@
+# Graphic Design Rules
+## By Sean Adams
+### ISBN 9781616898762
+---
+#### Type and Typography
+- Comic Sans
+	- A Microsoft font initially introduced as an option for people who were uneasy about computers
+	- But got incredibly popular, and applied to many instances for which it was never intended
+- Times New Roman
+	- Made ubiquitous by Microsoft with its bundling with Windows since 1992, and it being the default font in Word until it was replaced by Calibri in 2007
+	- Well designed, legible, great use of space. 
+	- It has a place in this world!
+- Worship Classic Typefaces
+	- "Classic" doesn't mean old, but one that's left a mark on the art
+	- Helvetica, Sentinal, DIN, Futura, Akzidenz Grotesk
+	- Respect the greats!
+- Learn about typographic classification
+	- Knowing about a font's classification and origins can help inform your decision about when to use it
+	- Understanding that a font was designed for long form reading allows you to tap into its maximium potential
+- Legibility and Readibility are More Important than typographic styling
+	- The goal of design is to communicate
+	- Cluttering up text with too many typefaces directly contradicts that goal
+- Mix typeface choices to create texture
+	- Combos from opposing font type families can come together to create a font texture
+	- Identify similar characteristics they might have that complement each other
+- Don't mix typefaces to create hierarchy
+	- Strategy:
+		- Choose one typeface for body copy
+		- Choose size
+		- Choose color
+		- Choose Weight
+		- Choose case style
+	- For the headline, change *one* of those attributes. **Just** one.
+- Don't mix serif fonts in a layout
+	- They will look similar, but uncomfortably different and look only like an error
+- Don't use ultrathin typefaces for logo design
+	- It might look great on a web page!
+	- But when it is shrunk down for a business card, that thin font becomes even thinner and then nobody is happy
+- Don't buy into the 12-good-typefaces theory
+	- Massimo Vignelli, the designer of the New York subway map and the American Airlines logo, argued that you only need 12 good typefaces
+	- Choosing a typeface is about appropriateness and application
+	- Typefaces have exploded and onto media that were unimagined even at the time Vignelli put for his theory
+	- No reason to limit ourselves -- Build a selective catalog of ones that work for you, but feel comfortable to go beyond 12
+- Don't use excessive leading in body copy
+	- **Leading**: The space between lines of text, named after the strips of lead that separated the text rows when metal type was set by hand
+	- Excessive leading looks kind of neat, but is an unpleasant thing to read and creates the suggestion of long pauses between lines
+- Indenting
+	- Indent each new paragraph of body copy
+	- Don't indent a paragraph that follows a heading or a paragraph break
+	- Don't indent a paragraph that starts at the top of a column or page
+- Font versus Typeface
+	- Font is a typeface at a specific point size
+	- Typeface is a set of characters that share traits like stroke width and serifs, but not bound to a certain size

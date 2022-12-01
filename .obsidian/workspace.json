@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "1a40af185f2b27a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a92adea4bf40690",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d39569f6d10b852f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bebb997276a30334",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc971b3e28a81b95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2f6424ffbf2f0f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2be053fbab406d9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "right": {
+    "id": "1e4b95c279784cc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1e91c1545b56ae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c5b89ca479e78d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b2f6424ffbf2f0f1",
+  "lastOpenFiles": [
+    "Literature Notes/202211271833 - BOOK - How the Word is Passed.md",
+    "Permanent Notes/202207162214 - Franklin's Racism.md",
+    "202210202155 - ARTICLE - Vocational Awe and Librarianship.md",
+    "202211302002 - BOOK - Work Won't Love You Back.md",
+    "Literature Notes/202211271748 - ARTICLE - Americans die younger in states run by conservatives, study finds.md",
+    "202211272102 - VIDEO - We Still Can't Eat Prestige.md",
+    "Permanent Notes/202211302022 - Monticello Tours Given by Black People Dressed as Slaves.md",
+    "Permanent Notes/202211302142 - Maligning the South for Slavery Feels Outdated.md",
+    "Permanent Notes/202211302134 - Untenable Nature of Confederate Monuments.md",
+    "Permanent Notes/202211302119 - Claims The Civil War Wasn't About Slavery Ignore Treatment of Black Union Soldiers.md"
+  ]
+}

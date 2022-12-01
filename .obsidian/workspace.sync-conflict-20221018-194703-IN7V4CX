@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "1a40af185f2b27a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "940564c1d33818bb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202209271713 - ARTICLE - How to set up Environment Variable in Node JS.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bebb997276a30334",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc971b3e28a81b95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2f6424ffbf2f0f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2be053fbab406d9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "coding",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 466.5
+  },
+  "right": {
+    "id": "1e4b95c279784cc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1e91c1545b56ae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c5b89ca479e78d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202209271713 - ARTICLE - How to set up Environment Variable in Node JS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "940564c1d33818bb",
+  "lastOpenFiles": [
+    "Permanent Notes/202209201856 - Code Snippets.md",
+    "Permanent Notes/202208231611 - .gitignore for WordPress Development.md",
+    "Permanent Notes/202207112111 - Entry Points.md",
+    "Permanent Notes/202209261932 - What is a Cloud Service Provider.md",
+    "Permanent Notes/202209262035 - Cloud Hosting.md",
+    "Permanent Notes/202209201853 - useFetch.md",
+    "Permanent Notes/202209261950 - Four Core CSP Services.md",
+    "Permanent Notes/202209262022 - Evolution of Cloud Hosting.md",
+    "Permanent Notes/202206162159 - Coding.md",
+    "202207052043 - VIDEO - Advanced WordPress Theme Development.md"
+  ]
+}

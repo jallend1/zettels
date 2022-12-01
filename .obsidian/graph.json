@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "path:\"Permanent Notes\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Permanent Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431394
+      }
+    },
+    {
+      "query": "path:\"Literature Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 2.65208333333333,
+  "lineSizeMultiplier": 0.814583333333333,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 13.6666666666667,
+  "linkStrength": 0.304166666666667,
+  "linkDistance": 408,
+  "scale": 0.039887301131076684,
+  "close": true
+}
